@@ -17,7 +17,7 @@
 <br>
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">  Main skills </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,github,git,postgres,java,spring,ts,nestjs,jest,angular,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,github,git,postgres,java,spring,ts,nestjs,angular,docker)](https://skillicons.dev)
 
 <br>
 <h2> 🤝🏻 Connect with Me </h2>
