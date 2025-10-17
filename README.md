@@ -5,7 +5,7 @@
       </a>
 
 <div height="300">
-  <img src="terminal.gif">
+  <img src="utilities/terminal.gif">
 </div>
 <br>
 
