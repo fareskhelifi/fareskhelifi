@@ -13,11 +13,6 @@
 
 **Software Engineer** with 2+ years of experience in backend web development and a solid background in **Machine Learning**.  
 🔁 Eager to learn. Driven to grow.  
-<br>
-
-<h2> 🎓 Education </h2>
-
-MSc in ICT for Internet and Multimedia @ University of Padova
 
 <br>
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">  Main skills </h2>
